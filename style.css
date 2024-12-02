@@ -232,8 +232,9 @@ header {
   margin-top: 30px;
 }
 .footer{
-  padding-block: 80px;
+  padding-block: 100px;
   background-color: #ebf2fa;
+  margin: 50px;
   
   
 }
